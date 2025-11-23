@@ -1,0 +1,21 @@
+## .env
+```
+MONGO_URI=
+
+//REDIS_URL= ei käytetty
+
+JWT_SECRET=
+
+AVATAR_FOLDER=
+
+TOGETHER_API_KEY=
+
+GMAIL_USER=
+
+EMAIL_APP_PASS=
+
+MEM0_API_KEY=
+
+CHATBOT_MODEL=
+
+```
